@@ -2,6 +2,12 @@
 
 This is a php port of [libaxolotl-android](https://github.com/WhisperSystems/libaxolotl-android) originally written by [Moxie Marlinspike](https://github.com/moxie0)
 
+Compare with
+[libsignal-protocol-python](https://github.com/albert-chin/libsignal-protocol-python)
+forked from 
+[python-axolotl](https://github.com/tgalal/python-axolotl),
+which is a python port.
+
 This is used in [Chat API](https://github.com/WHAnonymous/Chat-API).
 
 Overview from original author's:
